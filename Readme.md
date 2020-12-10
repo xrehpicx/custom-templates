@@ -47,3 +47,12 @@ or
 $ ct -t custom-cra-template
 ```
 if you are already in your project dir
+
+## Changing Template folder
+```
+$ ct --set
+```
+or
+```
+$ ct --set pathtofolder
+```
