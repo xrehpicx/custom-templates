@@ -16,6 +16,7 @@
     "generator",
     "automation"
   ],
+  "repository": "https://github.com/xrehpicx/custom-templates",
   "author": "raj",
   "license": "ISC",
   "dependencies": {
