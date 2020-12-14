@@ -13,4 +13,4 @@ console.log(
     )
 );
 
-!customTemplateFolder ? setup() : cli.start()
+customTemplateFolder ? cli.start() : setup();
